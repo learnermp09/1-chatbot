@@ -1,6 +1,5 @@
 langchain
 langchain-core
+langchain-groq
 langchain-community
-langchain-openai
 streamlit
-openai
