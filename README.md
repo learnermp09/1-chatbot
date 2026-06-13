@@ -106,7 +106,8 @@ For production deployment:
 
 ## 📸 Application Preview
 
-_Add a screenshot of the deployed application here._
+<img width="1858" height="782" alt="image" src="https://github.com/user-attachments/assets/cbe2ebf3-b5c3-42ad-bd8f-d8ccdcbf9c70" />
+
 
 ## 🎯 Future Enhancements
 
@@ -122,7 +123,7 @@ _Add a screenshot of the deployed application here._
 **Mrityunjay Pathak**
 
 - GitHub: https://github.com/learnermp09
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: [https://www.linkedin.com/in/mrityunjay-pathak-74151aa/]
 
 ## 📜 License
 
