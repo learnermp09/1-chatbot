@@ -1,6 +1,6 @@
-# 🤖 AgentForge
+# 🤖 ThinkChain - An AI Chatbot
 
-AgentForge is an AI-powered conversational assistant built using **LangChain**, **Groq**, and **Streamlit**. The application enables users to interact with a large language model through a simple and intuitive web interface.
+ThinkChain is an AI-powered conversational assistant built using **LangChain**, **Groq**, and **Streamlit**. The application enables users to interact with a large language model through a simple and intuitive web interface.
 
 ## 🚀 Live Demo
 
